@@ -1,0 +1,6 @@
+{
+  "name": "MinumanKu",
+  "description": "Aplikasi pembukuan dan kasir reseller minuman untuk mencatat penjualan, kelola stok, dan pantau laba real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
